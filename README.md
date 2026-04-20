@@ -1,4 +1,4 @@
-🎬 Streamflow Analytics Dashboard
+## 🎬 Streamflow Analytics Dashboard
 
 End-to-end analytics pipeline for a fictional streaming platform, built to analyze **revenue, churn, and user engagement** across 5K+ users and 50K+ sessions.
 
@@ -47,7 +47,7 @@ Looker Studio (Dashboard)
 
 ---  
   
-**Tech Stack**  
+## Tech Stack 
   
 - Python → Data generation  
 - BigQuery (SQL) → Data modeling & transformations  
@@ -55,7 +55,7 @@ Looker Studio (Dashboard)
   
 ---  
   
-**Key Metrics Tracked**  
+## Key Metrics Tracked
   
 - Monthly Recurring Revenue (MRR)  
 - Average Revenue Per User (ARPU)  
@@ -66,7 +66,7 @@ Looker Studio (Dashboard)
   
 ---  
   
-**Key Insights**  
+## Key Insights 
   
 - Premium plan drives the highest revenue despite equal user distribution  
 - Mobile and Smart TV dominate user engagement  
@@ -75,32 +75,27 @@ Looker Studio (Dashboard)
   
 ---
 
-**How to Use**  
+## How to Use
   
 1. Clone the repo:  
    ```bash  
-   git clone [https://github.com/<your-username>/streamflow-analytics-dashboard.git](https://github.com/<your-username>/streamflow-analytics-dashboard.git "https://github.com/<your-username>/streamflow-analytics-dashboard.git")
-
-  
-
+   git clone https://github.com/KongaraLikhith/streamflow-analytics-dashboard.git
 ```
-
-2.  Explore datasets in `/data`
-3.  Run SQL scripts in `/sql` inside BigQuery:
+2.  Explore datasets in _/data_
+3.  Run SQL scripts in _/sql_ inside BigQuery:
     -   Create tables
     -   Apply transformations
     -   Build analytical views
 4.  Connect BigQuery to Looker Studio to recreate the dashboard
+---
+
+## Dashboard Preview
+
+See ```/dashboard/Streamflow_Dashboard.pdf``` for a static version of the dashboard.
 
 ---
 
-**Dashboard Preview**
-
-See `/dashboard/Streamflow_Dashboard.pdf` for a static version of the dashboard.
-
----
-
-**Purpose**
+## Purpose
 
 This project demonstrates:
 
