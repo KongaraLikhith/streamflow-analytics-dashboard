@@ -79,8 +79,7 @@ Looker Studio (Dashboard)
   
 1. Clone the repo:  
    ```bash  
-   git clone https://github.com/KongaraLikhith/streamflow-analytics-dashboard.git
-```
+   git clone https://github.com/KongaraLikhith/streamflow-analytics-dashboard.git```
 2.  Explore datasets in _/data_
 3.  Run SQL scripts in _/sql_ inside BigQuery:
     -   Create tables
