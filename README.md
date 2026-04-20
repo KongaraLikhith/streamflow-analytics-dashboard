@@ -10,7 +10,7 @@ End-to-end analytics pipeline for a fictional streaming platform, built to analy
 
 ---
 
-##  Project Overview
+## Project Overview
 
 This project simulates a real-world data workflow:  
 - Synthetic data generation using Python  
@@ -25,7 +25,7 @@ The goal is to answer key business questions around:
 
 ---
 
-##  Architecture
+## Architecture
 
 Python (Data Generation)  
 ↓  
@@ -35,8 +35,8 @@ BigQuery (Tables, Transformations, Views)
 ↓  
 Looker Studio (Dashboard)
 
----  
-  
+---
+
 ## 📁 Repository Structure
 
 ├── dashboard/ # Final dashboard PDF/report  
@@ -47,15 +47,15 @@ Looker Studio (Dashboard)
 
 ---  
   
-## ⚙️ Tech Stack  
+**Tech Stack**  
   
-- **Python** → Data generation  
-- **BigQuery (SQL)** → Data modeling & transformations  
-- **Looker Studio** → Dashboard & visualization  
+- Python → Data generation  
+- BigQuery (SQL) → Data modeling & transformations  
+- Looker Studio → Dashboard & visualization  
   
 ---  
   
-##  Key Metrics Tracked  
+**Key Metrics Tracked**  
   
 - Monthly Recurring Revenue (MRR)  
 - Average Revenue Per User (ARPU)  
@@ -66,7 +66,7 @@ Looker Studio (Dashboard)
   
 ---  
   
-##  Key Insights  
+**Key Insights**  
   
 - Premium plan drives the highest revenue despite equal user distribution  
 - Mobile and Smart TV dominate user engagement  
@@ -75,7 +75,7 @@ Looker Studio (Dashboard)
   
 ---
 
-## How to Use  
+**How to Use**  
   
 1. Clone the repo:  
    ```bash  
@@ -94,13 +94,13 @@ Looker Studio (Dashboard)
 
 ---
 
-##Dashboard Preview
+**Dashboard Preview**
 
 See `/dashboard/Streamflow_Dashboard.pdf` for a static version of the dashboard.
 
 ---
 
-##Purpose
+**Purpose**
 
 This project demonstrates:
 
